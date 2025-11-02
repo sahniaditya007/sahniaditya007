@@ -1,113 +1,142 @@
-# 👋 Hi, I'm Aditya Sahni
+# Hi there, I'm Aditya Sahni
 
-🎓 **Final-year B.Tech Computer Science student at Bennett University**, passionate about building intelligent systems that bridge the gap between AI and real-world applications.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-New%20Delhi,%20India-blue?style=flat-square" />
-  <a href="mailto:sahniaditya007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sahniaditya007@gmail.com-red?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-sahni-113605255">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Sahni-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://github.com/sahniaditya007">
-    <img src="https://img.shields.io/badge/GitHub-sahniaditya007-black?logo=github&style=flat-square" />
-  </a>
-</p>
+I'm a Computer Science student at **Bennett University (Class of 2026)** with a passion for building complex and efficient systems.
+
+My interests span from low-level systems programming, like building an operating system from scratch in C and Assembly, all the way to architecting full-stack Generative AI applications and scalable web services. I'm driven by the challenge of solving hard problems, whether it's managing memory at the kernel level or designing an intelligent AI pipeline.
+
+* 📫 **How to reach me:** `sahniaditya007@gmail.com`
+* 🔗 **Connect with me on LinkedIn:** [linkedin.com/in/aditya-sahni-113605255](https://linkedin.com/in/aditya-sahni-113605255)
+* 📍 **Based in:** New Delhi, India
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ My Tech Stack
+
+Here are some of the technologies I work with:
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> C++ &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML5 &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS3
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /><br>
+      <b>C</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br>
+      <b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /><br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>
+      <b>React.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>
+      <b>Next.js</b>
     </td>
   </tr>
-
   <tr>
-    <td><b>Frameworks & Libraries</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> React.js &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/> Flask &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="25"/> PyTorch &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25"/> TensorFlow &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="25"/> OpenCV &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Tkinter-Python%20GUI-2c8ebb?style=flat&logo=python" height="25"/> Tkinter &nbsp;&nbsp;
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="25"/> Hugging Face &nbsp;&nbsp;
-      <img src="https://avatars.githubusercontent.com/u/114370097?s=200&v=4" width="25"/> LangChain
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>
+      <b>Express.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=langchain" width="40" height="40" alt="LangChain" /><br>
+      <b>LangChain</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /><br>
+      <b>PyTorch</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /><br>
+      <b>TensorFlow</b>
+    </td>
+     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /><br>
+      <b>PostgreSQL</b>
     </td>
   </tr>
-
   <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> MongoDB &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> MySQL
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>
+      <b>MongoDB</b>
     </td>
-  </tr>
-
-  <tr>
-    <td><b>Cloud Platforms</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="25"/> AWS &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="25"/> GCP &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25"/> Azure
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" /><br>
+      <b>Prisma</b>
     </td>
-  </tr>
-
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> GitHub &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Unix
+    <td align="center" width="120">
+      <img src="httpsReadMe" src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>
+      <b>AWS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /><br>
+      <b>GCP</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /><br>
+      <b>Azure</b>
+    </td>
+    <td align="center" width="120">
+      <img src="httpsReadMe" src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br>
+      <b>Unix/Linux</b>
     </td>
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-### 🎯 CrossViewID: Multi-Camera Player Tracking System  
-A deep learning pipeline for real-time multi-camera player identification using PyTorch and OpenCV. **Achieved 90% spatial accuracy** via CNNs, Siamese networks, and geometric calibration.
-
-### 📈 Stock Sense: Multi-Agent Stock Query System  
-Modular NLP-driven Flask app that answers user stock queries using real-time data from Alpha Vantage & NewsAPI. Features agent orchestration, intelligent summarization, and dual input modes (chat + structured).
-
-### 🔐 Thrain: Encrypted Text Transfer System  
-Secure text/file sharing using Diffie-Hellman and AES, deployed via AWS Lambda + S3. Offers web (Flask) and desktop (Tkinter) interfaces with live encryption/decryption and key rotation.
 
 ---
 
-## 🧠 Additional Work
+## 🚀 My Featured Projects
 
-- **CryptoPilot:** Crypto trend prediction system using LSTM, GRU; improved prediction accuracy by 15%.  
-- **Todo App:** WCAG-compliant task tracker with mobile-first responsive UI and component-based React architecture.
+### 1. The Operating System Project
+
+A 32-bit x86 operating system built entirely from scratch. This project was a deep dive into low-level system architecture, memory management, and boot processes.
+
+* **Core Tech:** C, Assembly, SCons, QEMU.
+* Engineered a multi-stage bootloader to transition the CPU from 16-bit real mode to 32-bit protected mode.
+* Implemented a modular kernel with a Global Descriptor Table (GDT) for memory segmentation and an Interrupt Descriptor Table (IDT) with an i8259 PIC driver for interrupt handling.
+* Supports loading the kernel from an ELF executable and includes FAT32 filesystem support.
+* Automated the build and deployment process using SCons and a custom GCC cross-compiler.
+
+### 2. Generative AI Interviewer
+
+An AI-powered interview platform that delivers real-time, dynamic skill assessments using Python, Streamlit, and the Google Gemini API.
+
+* **Core Tech:** Python, Streamlit, LangChain, Google Gemini, Pydantic.
+* Architected a multi-step AI pipeline with LangChain to dynamically generate questions, validate their quality, and evaluate user answers against a rubric.
+* Used Pydantic models to define and parse LLM inputs and outputs, ensuring reliable data flow and type safety between the frontend and the AI backend.
+
+### 3. Shopify Analytics Integration
+
+A full-stack analytics application for Shopify merchants, providing a unified dashboard to visualize store performance.
+
+* **Core Tech:** Next.js, Node.js, Express.js, Prisma, PostgreSQL, Tailwind CSS.
+* Built a robust data pipeline with a Node.js/Express.js backend that syncs product, customer, and order data from the Shopify REST API into a multi-tenant PostgreSQL database using Prisma ORM.
+* Developed a responsive and dynamic analytics dashboard with React (Next.js) and Tailwind CSS to display key performance indicators.
 
 ---
-
-## 📚 Core Competencies
-
-- Machine Learning & Deep Learning  
-- System Design & Architecture  
-- Secure Communication & Cryptography  
-- Cloud-native App Development  
-- Full-Stack Web Development  
-- Multi-agent & Multi-modal Systems
-
----
-
-## 📌 Let's Connect!
-
-I'm always open to collaboration and opportunities in AI/ML, full-stack development, or product-driven roles.  
-📬 Drop me a message on [LinkedIn](https://www.linkedin.com/in/aditya-sahni-113605255) or check out my work on [GitHub](https://github.com/sahniaditya007)!
