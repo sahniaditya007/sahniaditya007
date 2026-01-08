@@ -1,13 +1,24 @@
-# Hi there, I'm Aditya Sahni
+# Hi there, I'm Aditya Sahni 👋
 
+I’m a **Computer Science undergraduate at Bennett University (Class of 2026)** with a strong interest in **systems engineering, backend development, and applied AI**.
 
-I'm a Computer Science student at **Bennett University (Class of 2026)** with a passion for building complex and efficient systems.
+I enjoy working across the stack—from **low-level systems programming** like building operating systems and understanding CPU internals, to **designing scalable full-stack and AI-driven applications** used in real-world scenarios. I’m motivated by problems that demand both **depth and clean engineering**, whether that’s kernel memory management or a real-time AI pipeline.
 
-My interests span from low-level systems programming, like building an operating system from scratch in C and Assembly, all the way to architecting full-stack Generative AI applications and scalable web services. I'm driven by the challenge of solving hard problems, whether it's managing memory at the kernel level or designing an intelligent AI pipeline.
+- 📫 **Email:** sahniaditya007@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/aditya-sahni-113605255  
+- 💻 **GitHub:** https://github.com/sahniaditya007  
+- 📍 **Location:** New Delhi, India  
 
-* 📫 **How to reach me:** `sahniaditya007@gmail.com`
-* 🔗 **Connect with me on LinkedIn:** [linkedin.com/in/aditya-sahni-113605255](https://linkedin.com/in/aditya-sahni-113605255)
-* 📍 **Based in:** New Delhi, India
+---
+
+## 🧠 Areas of Interest
+
+- Operating Systems & Computer Architecture  
+- Backend & Distributed Systems  
+- Full-Stack Web & Mobile Development  
+- Generative AI & LLM Systems  
+- Machine Learning & Time-Series Forecasting  
+- Cloud & Infrastructure Engineering  
 
 ---
 
@@ -17,126 +28,104 @@ Here are some of the technologies I work with:
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /><br>
-      <b>C</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br>
-      <b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>
-      <b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /><br>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /><br>
-      <b>TypeScript</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>
-      <b>React.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>
-      <b>Next.js</b>
-    </td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><b>C</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><b>C++</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><b>Python</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br><b>JavaScript</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br><b>TypeScript</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><b>React.js</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br><b>Next.js</b></td>
   </tr>
+
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>
-      <b>Node.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>
-      <b>Express.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>
-      <b>Tailwind CSS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=langchain" width="40" height="40" alt="LangChain" /><br>
-      <b>LangChain</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /><br>
-      <b>PyTorch</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /><br>
-      <b>TensorFlow</b>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /><br>
-      <b>PostgreSQL</b>
-    </td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=reactnative" width="40"/><br><b>React Native</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><b>Node.js</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="40"/><br><b>Express.js</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br><b>FastAPI</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><b>Tailwind CSS</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=langchain" width="40"/><br><b>LangChain</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=huggingface" width="40"/><br><b>Hugging Face</b></td>
   </tr>
+
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" /><br>
-      <b>Prisma</b>
-    </td>
-    <td align="center" width="120">
-      <img src="httpsReadMe" src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>
-      <b>Git</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>
-      <b>AWS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /><br>
-      <b>GCP</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /><br>
-      <b>Azure</b>
-    </td>
-    <td align="center" width="120">
-      <img src="httpsReadMe" src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br>
-      <b>Unix/Linux</b>
-    </td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br><b>PyTorch</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br><b>TensorFlow</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br><b>PostgreSQL</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><b>MySQL</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br><b>MongoDB</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br><b>SQLite</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br><b>Prisma</b></td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><b>Git</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>Unix/Linux</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br><b>AWS</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br><b>GCP</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br><b>Azure</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><b>Docker</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>QEMU / Systems</b></td>
   </tr>
 </table>
 
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Zentality — AI-Powered Mental Health Platform
+**Tech:** React Native, TypeScript, Node.js, Express, MongoDB, OpenAI API  
+- Architected a full-stack mental health platform with **real-time AI chat** across mobile app, admin dashboard, and backend  
+- Built a **production-grade LLM service** with streaming STT/TTS, session-based memory, and multi-provider support  
+- Designed scalable **WebSocket infrastructure** with JWT authentication, session persistence, and fault tolerance  
 
 ---
 
-## 🚀 My Featured Projects
-
-### 1. The Operating System Project
-
-A 32-bit x86 operating system built entirely from scratch. This project was a deep dive into low-level system architecture, memory management, and boot processes.
-
-* **Core Tech:** C, Assembly, SCons, QEMU.
-* Engineered a multi-stage bootloader to transition the CPU from 16-bit real mode to 32-bit protected mode.
-* Implemented a modular kernel with a Global Descriptor Table (GDT) for memory segmentation and an Interrupt Descriptor Table (IDT) with an i8259 PIC driver for interrupt handling.
-* Supports loading the kernel from an ELF executable and includes FAT32 filesystem support.
-* Automated the build and deployment process using SCons and a custom GCC cross-compiler.
-
-### 2. Generative AI Interviewer
-
-An AI-powered interview platform that delivers real-time, dynamic skill assessments using Python, Streamlit, and the Google Gemini API.
-
-* **Core Tech:** Python, Streamlit, LangChain, Google Gemini, Pydantic.
-* Architected a multi-step AI pipeline with LangChain to dynamically generate questions, validate their quality, and evaluate user answers against a rubric.
-* Used Pydantic models to define and parse LLM inputs and outputs, ensuring reliable data flow and type safety between the frontend and the AI backend.
-
-### 3. Shopify Analytics Integration
-
-A full-stack analytics application for Shopify merchants, providing a unified dashboard to visualize store performance.
-
-* **Core Tech:** Next.js, Node.js, Express.js, Prisma, PostgreSQL, Tailwind CSS.
-* Built a robust data pipeline with a Node.js/Express.js backend that syncs product, customer, and order data from the Shopify REST API into a multi-tenant PostgreSQL database using Prisma ORM.
-* Developed a responsive and dynamic analytics dashboard with React (Next.js) and Tailwind CSS to display key performance indicators.
+### 🖥️ The Operating System Project
+**Tech:** C, Assembly, SCons, QEMU  
+- Built a **32-bit x86 operating system from scratch** with a multi-stage bootloader and modular kernel  
+- Implemented **GDT and IDT** with i8259 PIC for memory segmentation and interrupt handling  
+- Loaded kernel from an **ELF executable** with FAT12/16/32 filesystem support  
+- Automated cross-compiler builds and OS testing via **SCons + QEMU**
 
 ---
+
+### 🤖 Generative AI Interviewer
+**Tech:** Python, FastAPI, LangChain, Google Gemini, Next.js, SQLite  
+- Developed a live interview trainer that **generates questions and scores answers in real time**  
+- Built multi-step LangChain pipelines for generation, validation, and rubric-based evaluation  
+- Implemented **adaptive difficulty**, persistent sessions, and detailed interview history  
+- Delivered strong UX with audio recording, speech-to-text, and instant feedback  
+
+---
+
+### 📈 CryptoPilot — AI Models for Crypto Forecasting
+**Tech:** Python, LSTM, GRU, Time-Series ML  
+- Built deep-learning forecasting pipelines achieving **~15% error reduction**  
+- Benchmarked LSTM, GRU, and classical baselines across historical crypto datasets  
+- Automated preprocessing, feature engineering, and evaluation workflows  
+- Visualized predictions to surface trends and improve interpretability  
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science — Bennett University**  
+**Graduation:** 2026  
+
+Relevant Coursework:
+- Data Structures & Algorithms  
+- Operating Systems & Computer Architecture  
+- Computer Networks & Databases  
+- Systems Design & Software Engineering  
+- Artificial Intelligence, Machine Learning & Deep Learning  
+- Cloud Computing  
+
+---
+
+## 📌 What I’m Looking For
+
+- Software Engineering Internships / New-Grad Roles  
+- Backend, Systems, or Platform Engineering  
+- AI-focused product and infrastructure roles  
+
+If you’re building **systems, AI platforms, or scalable products**, feel free to connect 🚀
