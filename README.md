@@ -1,131 +1,102 @@
-# Hi there, I'm Aditya Sahni 👋
+# Hi, I'm Aditya Sahni
 
-I’m a **Computer Science undergraduate at Bennett University (Class of 2026)** with a strong interest in **systems engineering, backend development, and applied AI**.
+**Software Engineer · Full-Stack (MERN/Next.js) · ML & Systems Enthusiast**
 
-I enjoy working across the stack—from **low-level systems programming** like building operating systems and understanding CPU internals, to **designing scalable full-stack and AI-driven applications** used in real-world scenarios. I’m motivated by problems that demand both **depth and clean engineering**, whether that’s kernel memory management or a real-time AI pipeline.
-
-- 📫 **Email:** sahniaditya007@gmail.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/aditya-sahni-113605255  
-- 💻 **GitHub:** https://github.com/sahniaditya007  
-- 📍 **Location:** New Delhi, India  
-
----
-
-## 🧠 Areas of Interest
-
-- Operating Systems & Computer Architecture  
-- Backend & Distributed Systems  
-- Full-Stack Web & Mobile Development  
-- Generative AI & LLM Systems  
-- Machine Learning & Time-Series Forecasting  
-- Cloud & Infrastructure Engineering  
+- **Location:** Noida / New Delhi, India  
+- **Email:** [sahniaditya007@gmail.com](mailto:sahniaditya007@gmail.com)  
+- **Phone:** +91-9971121047  
+- **LinkedIn:** [linkedin.com/in/sahniaditya007](https://linkedin.com/in/sahniaditya007)  
+- **GitHub:** [github.com/sahniaditya007](https://github.com/sahniaditya007)  
+- **LeetCode:** [leetcode.com/sahniaditya007](https://leetcode.com/sahniaditya007)  
+- **Codeforces:** [codeforces.com/adityasahni](https://codeforces.com/adityasahni)  
 
 ---
 
-## 🛠️ My Tech Stack
+## About Me
 
-Here are some of the technologies I work with:
+I’m a Computer Science undergraduate at **Bennett University (2022–2026)** with hands-on experience building **production-grade MERN applications**, designing **real-time data pipelines**, and developing **end-to-end ML systems** (feature engineering → training → evaluation → deployment).
 
-<table>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><b>C</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><b>C++</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><b>Python</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br><b>JavaScript</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br><b>TypeScript</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><b>React.js</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br><b>Next.js</b></td>
-  </tr>
+I enjoy working at the intersection of:
 
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=reactnative" width="40"/><br><b>React Native</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><b>Node.js</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="40"/><br><b>Express.js</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br><b>FastAPI</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br><b>Tailwind CSS</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=langchain" width="40"/><br><b>LangChain</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=huggingface" width="40"/><br><b>Hugging Face</b></td>
-  </tr>
+- **Backend engineering** (APIs, data models, systems design)  
+- **AI/ML** (modeling, evaluation, deployment)  
+- **Low-level systems** (OS internals, performance, tooling)
 
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br><b>PyTorch</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br><b>TensorFlow</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br><b>PostgreSQL</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><b>MySQL</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br><b>MongoDB</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br><b>SQLite</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br><b>Prisma</b></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><b>Git</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>Unix/Linux</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br><b>AWS</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br><b>GCP</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br><b>Azure</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><b>Docker</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br><b>QEMU / Systems</b></td>
-  </tr>
-</table>
+I care about **clear abstractions**, **reliable systems**, and **measurable impact**.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🧠 Zentality — AI-Powered Mental Health Platform
-**Tech:** React Native, TypeScript, Node.js, Express, MongoDB, OpenAI API  
-- Architected a full-stack mental health platform with **real-time AI chat** across mobile app, admin dashboard, and backend  
-- Built a **production-grade LLM service** with streaming STT/TTS, session-based memory, and multi-provider support  
-- Designed scalable **WebSocket infrastructure** with JWT authentication, session persistence, and fault tolerance  
-
----
-
-### 🖥️ The Operating System Project
-**Tech:** C, Assembly, SCons, QEMU  
-- Built a **32-bit x86 operating system from scratch** with a multi-stage bootloader and modular kernel  
-- Implemented **GDT and IDT** with i8259 PIC for memory segmentation and interrupt handling  
-- Loaded kernel from an **ELF executable** with FAT12/16/32 filesystem support  
-- Automated cross-compiler builds and OS testing via **SCons + QEMU**
+| **Category** | **Skills** |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python" height="26" alt="Python" /> <img src="https://skillicons.dev/icons?i=c" height="26" alt="C" /> <img src="https://skillicons.dev/icons?i=cpp" height="26" alt="C++" /> <img src="https://skillicons.dev/icons?i=js" height="26" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=html" height="26" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="26" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=mysql" height="26" alt="SQL" /> <br/>Python · C · C++ · Assembly · JavaScript · SQL · HTML5 · CSS3 |
+| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=react" height="26" alt="React.js" /> <img src="https://skillicons.dev/icons?i=nextjs" height="26" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=nodejs" height="26" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=express" height="26" alt="Express.js" /> <img src="https://skillicons.dev/icons?i=fastapi" height="26" alt="FastAPI" /> <br/>React.js · Next.js · Remix · Node.js · Express.js · FastAPI |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=pytorch" height="26" alt="PyTorch" /> <img src="https://skillicons.dev/icons?i=tensorflow" height="26" alt="TensorFlow" /> <br/>PyTorch · TensorFlow · scikit-learn · NumPy · Pandas · Hugging Face Transformers · LangChain |
+| **Databases & Data Engineering** | <img src="https://skillicons.dev/icons?i=postgres" height="26" alt="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" height="26" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=mongodb" height="26" alt="MongoDB" /> <img src="https://skillicons.dev/icons?i=redis" height="26" alt="Redis" /> <img src="https://skillicons.dev/icons?i=kafka" height="26" alt="Apache Kafka" /> <br/>PostgreSQL · MySQL · MongoDB · Redis · Apache Kafka · Qdrant |
+| **DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=git" height="26" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="26" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=docker" height="26" alt="Docker" /> <img src="https://skillicons.dev/icons?i=linux" height="26" alt="Linux/Unix" /> <img src="https://skillicons.dev/icons?i=vscode" height="26" alt="VS Code" /> <br/>Git · GitHub · Docker · Linux/Unix · WSL · Zsh · VS Code · QEMU · SCons |
+| **Cloud & APIs** | <img src="https://skillicons.dev/icons?i=gcp" height="26" alt="Google Cloud Platform" /> <img src="https://skillicons.dev/icons?i=aws" height="26" alt="AWS" /> <img src="https://skillicons.dev/icons?i=azure" height="26" alt="Microsoft Azure" /> <br/>GCP · AWS · Azure · OpenAI API · Gemini API |
 
 ---
 
-### 🤖 Generative AI Interviewer
-**Tech:** Python, FastAPI, LangChain, Google Gemini, Next.js, SQLite  
-- Developed a live interview trainer that **generates questions and scores answers in real time**  
-- Built multi-step LangChain pipelines for generation, validation, and rubric-based evaluation  
-- Implemented **adaptive difficulty**, persistent sessions, and detailed interview history  
-- Delivered strong UX with audio recording, speech-to-text, and instant feedback  
+## Experience
+
+### IPOTHESIS RESEARCH PRIVATE LIMITED — Software Engineer Intern  
+*Jan 2025 – Present · New Delhi, India*
+
+- Built an end-to-end **ML trading signal pipeline** processing **50,000+ daily market data points**, computing **25+ technical indicators**, training ensemble models, and generating signals with **~65% directional accuracy**.  
+- Developed **backtesting frameworks** to evaluate **15+ strategies** over **3 years** of historical data and automated A/B experiments across **8 model variants**, improving **Sharpe ratio by 0.4**.  
+- Standardized dataset splits (**70/15/15** train/validation/test), **20+ feature configurations**, and versioned training artifacts, reducing experiment setup time by **60%** and improving reproducibility.  
+- Shipped and maintained **3 production MERN applications** serving **500+ daily users**, exposing **12+ REST APIs** with Node.js/Express and achieving **sub-200ms** response times on **90%+ endpoints**.  
+- Collaborated in a **4-person cross-functional team** to deliver **20+ production features** over **2 sprints**, achieving **99.5% uptime** and improving frontend load times by **35%**.
 
 ---
 
-### 📈 CryptoPilot — AI Models for Crypto Forecasting
-**Tech:** Python, LSTM, GRU, Time-Series ML  
-- Built deep-learning forecasting pipelines achieving **~15% error reduction**  
-- Benchmarked LSTM, GRU, and classical baselines across historical crypto datasets  
-- Automated preprocessing, feature engineering, and evaluation workflows  
-- Visualized predictions to surface trends and improve interpretability  
+## Selected Projects
+
+### Real-Time UPI Fraud Detection System  
+**Tech:** Apache Kafka · Redis · Python · scikit-learn  
+*Feb 2026*
+
+- Designed a real-time fraud detection pipeline processing **10,000+ transactions/hour** with **~100ms end-to-end latency**, ingesting streaming events via Kafka across **3 consumer groups** with **99.9% uptime**.  
+- Built a Redis-backed behavioral state engine tracking **6 fraud signals** using **1M+ TTL-based keys** over **5-minute sliding windows**, reducing false positives by **30%**.  
+- Developed an explainable hybrid risk-scoring engine combining **8 heuristic rules** with **Logistic Regression (AUC 0.87)** trained via weak supervision on **100K+ synthetic transactions**.  
+- Orchestrated offline training on **250K+ labeled transactions** and online inference with **15+ consistent features**, achieving **82% precision** and **78% recall** in production scoring.
 
 ---
 
-## 🎓 Education
+### The Operating System Project  
+**Tech:** C · x86 Assembly · SCons · QEMU/Bochs  
+*Nov 2025*
 
-**B.Tech in Computer Science — Bennett University**  
-**Graduation:** 2026  
-
-Relevant Coursework:
-- Data Structures & Algorithms  
-- Operating Systems & Computer Architecture  
-- Computer Networks & Databases  
-- Systems Design & Software Engineering  
-- Artificial Intelligence, Machine Learning & Deep Learning  
-- Cloud Computing  
+- Implemented a **32-bit i686 operating system** (~8,000 LOC) with a **two-stage bootloader** (512B stage-1) using **E820 BIOS** memory detection and boot parameter passing to a **64KB kernel image**.  
+- Built a **FAT12/16/32 filesystem reader** (4KB clusters) in stage-2 and an **ELF loader** parsing **10+ section headers** to locate and jump to `/boot/kernel.elf`.  
+- Set up core CPU/interrupt infrastructure: **GDT (5 segments), IDT (256 vectors), 32 ISRs, 16 IRQs**, **8259 PIC driver**, and **x87 FPU initialization**, achieving **~2ms boot time**.  
+- Developed a VGA GUI (320×200, 16-color), PS/2 keyboard/mouse drivers, and **3 desktop-style applications** (text editor, file browser, calculator).
 
 ---
 
-## 📌 What I’m Looking For
+### AI Technical Interviewer  
+**Tech:** Next.js · FastAPI · LangChain · Google Gemini API  
+*Sep 2025*
 
-- Software Engineering Internships / New-Grad Roles  
-- Backend, Systems, or Platform Engineering  
-- AI-focused product and infrastructure roles  
+- Built a full-stack interview platform supporting **100+ sessions** with adaptive difficulty across **5 levels**, using **Next.js** (frontend) and **FastAPI** (backend, **8 REST endpoints**) with **99% uptime**.  
+- Deployed a **4-stage LangChain pipeline** using Gemini for question generation (**3 questions/round**) and evaluation, processing **500+ responses** with **92% agreement** vs. human reviewers.  
+- Designed a difficulty adaptation algorithm over **7 scoring dimensions** (normalized 0–100), increasing engagement by **45%** via personalized progression.
 
-If you’re building **systems, AI platforms, or scalable products**, feel free to connect 🚀
+---
+
+## Currently Exploring
+
+- Real-time systems (Kafka/Redis), ML in production, and evaluation tooling  
+- LLM applications with LangChain and modern inference stacks  
+- Operating systems, developer tooling, and performance-focused engineering  
+
+---
+
+## Get In Touch
+
+If you’d like to collaborate or discuss opportunities:
+
+- **Email:** [sahniaditya007@gmail.com](mailto:sahniaditya007@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sahniaditya007](https://linkedin.com/in/sahniaditya007)
